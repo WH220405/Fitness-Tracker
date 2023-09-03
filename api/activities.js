@@ -110,3 +110,9 @@ router.patch(
 );
 
 module.exports = router;
+
+// npm run start:dev, doesnt run
+// run on postman
+// create table on pgadmin and join data
+// Browser Client user register
+// jwt Auth usesr get a token to use patch and delete
