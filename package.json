@@ -10,6 +10,8 @@
     "start": "node index.js",
     "test": "jest --runInBand",
     "test:watch": "jest --watchAll --runInBand"
+
+
   },
   "repository": {
     "type": "git",
@@ -29,7 +31,7 @@
   },
   "homepage": "https://github.com/wallacepreston/fitnesstrackr#readme",
   "devDependencies": {
-    "nodemon": "^2.0.4"
+    "nodemon": "^2.0.22"
   },
   "dependencies": {
     "axios": "^0.19.2",
